@@ -27,8 +27,9 @@ O sistema segue as seguintes regras:
 
 ## Como Executar o Sistema
 
-Para executar o sistema, basta compilar todos os arquivos `.java` e executar o arquivo `Main.java`.
+Para executar o sistema, basta compilar todos os arquivos `.java` e executar o arquivo `Main.java`
 
 ```bash
 javac *.java
 java Main
+```
